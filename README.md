@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Nathan and I am a new software developer. I am in a coding bootcamp through Tech Elevator and will be learning the Java programming language.
+I am currently enrolled in Tech Elevator's full stack Java development bootcamp.
+
+I'm learning OOP, unit testing, and version control through Java, JUnit, and Git. Much more to come over the next couple of months!
+
+LI: https://www.linkedin.com/in/nathanhouckdeveloper/ 
 
 <!--
 **nhdev20/nhdev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
