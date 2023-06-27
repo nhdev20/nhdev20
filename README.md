@@ -2,8 +2,6 @@
 
 I am currently enrolled in Tech Elevator's full stack Java development bootcamp.
 
-I'm learning OOP, unit testing, and version control through Java, JUnit, and Git. Much more to come over the next couple of months!
-
 LI: https://www.linkedin.com/in/nathanhouckdeveloper/ 
 
 <!--
