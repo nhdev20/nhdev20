@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there, my name is Nathan!
 
-I am currently enrolled in Tech Elevator's full stack Java development bootcamp.
+I am currently enrolled in Tech Elevator's full stack web development bootcamp. The stack we are learning is Java, PostgreSQL, and JavaScript (with Vue.js). Graduation is mid-August!
 
-LI: https://www.linkedin.com/in/nathanhouckdeveloper/ 
+👋 LI: https://www.linkedin.com/in/nathanhouckdeveloper/ 👋
+
+🌱 I’m currently learning about front-end development with HTML, CSS, JavaScript and Vue.js - it is the final module of our bootcamp!
+
+🔭 When I'm not working on homework or projects, I’m working on my Java console game called Fantasy Sword Duels - it is like Rock, Paper, Scissors, but with combat and magic and RPG elements (more details in the ReadMe in my repository)! There is also a project with a peer that utilizes social media API data, but more to come on that.
+
 
 <!--
 **nhdev20/nhdev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
