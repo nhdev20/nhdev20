@@ -29,7 +29,7 @@ Now, **I use software to turn ideas into reality**.
 
 💬 **Languages**: Java, SQL, JavaScript, HTML, CSS
 
-🔭 **Technologies**: IntelliJ, JUnit, Spring Boot, Spring framework, Postman, pgAdmin, Visual Studio Code, Git 
+🔭 **Technologies**: IntelliJ, JUnit, Spring Boot, RESTful API's, Postman, pgAdmin, Visual Studio Code, Git 
 
 <!--
 **nhdev20/nhdev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
