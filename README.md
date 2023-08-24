@@ -1,7 +1,7 @@
 ### Nathan Houck
 *Software Developer* || *Collector of Concepts* || *Meditator-Mystic*
 
-I am currently enrolled in Tech Elevator's full stack web development bootcamp. The stack we are learning is Java, PostgreSQL, and JavaScript (with Vue.js). Graduation is mid-August!
+I recently graduated from Tech Elevator's full stack web development bootcamp where I learned Java, PostgreSQL, and JS/HTML/CSS (with Vue.js).
 
 👋 LI: https://www.linkedin.com/in/nathanhouckdeveloper/ 👋
 
