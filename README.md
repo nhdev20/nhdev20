@@ -23,11 +23,9 @@ Now, **I use software to turn ideas into reality**.
 
 ---
 
-🌱 I’m currently learning about front-end development with HTML, CSS, JavaScript and Vue.js - it is the final module of our bootcamp!
+🌱 I’m currently learning the React framework and continuing to polish my HTML/CSS skills!
 
-⚡ When I'm not working on homework or projects from the bootcamp, I’m working on my Java console game called Fantasy Sword Duels - it is like Rock, Paper, Scissors, but with combat, magic, and RPG elements (more details in the ReadMe in my repository)! There is an additional side project I am working on with a peer that utilizes social media API data, but more to come on that.
-
-💬 **Languages**: Java, SQL, JavaScript, HTML, CSS
+💬 **Languages and Frameworks**: Java, SQL, Vue.js, JavaScript, HTML, CSS
 
 🔭 **Technologies**: IntelliJ, JUnit, Spring Boot, RESTful API's, Postman, pgAdmin, Visual Studio Code, Git 
 
