@@ -1,8 +1,7 @@
 ### Nathan Houck
 *Software Developer*
 
-I recently graduated from Tech Elevator's full stack web development bootcamp where I learned Java, PostgreSQL, and JS/HTML/CSS (with Vue.js).
-I am now working with C#, SQL Server, and the .NET framework!
+I am a full stack web developer working with C#, .NET, SQL Server, HTML/CSS/Javascript, jQuery, and Bootstrap!
 
 👋 LI: https://www.linkedin.com/in/nathanhouckdeveloper/ 👋
 
@@ -24,11 +23,11 @@ Now, **I use software to turn ideas into reality**.
 
 ---
 
-🌱 I’m currently learning about the Bootstrap framework and continuing to polish my HTML/CSS skills!
+🌱 I’m currently working on ASP.NET Core MVC applications incorporating Bootstrap and jQuery!
 
-💬 **Languages and Frameworks**: C#, .NET, Java, Spring Boot, SQL, Vue.js, JavaScript, HTML, CSS
+💬 **Languages, Frameworks, Libraries**: C#, .NET, MVC, SQL, Bootstrap, jQuery, JavaScript/HTML/CSS
 
-🔭 **Technologies**: Visual Studio, SSMS, IntelliJ, JUnit, Spring Boot, RESTful API's, Postman, pgAdmin, Visual Studio Code, Git 
+🔭 **Technologies**: Visual Studio, SSMS, RESTful API's, Postman, Git 
 
 <!--
 **nhdev20/nhdev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
